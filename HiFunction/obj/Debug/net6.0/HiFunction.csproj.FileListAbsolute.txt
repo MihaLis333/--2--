@@ -1,0 +1,15 @@
+/Users/user/VisualStudioCode/GeekBrains/ЛекцииЗнакЯзыкПрогр/lection 1.2/HiFunction/bin/Debug/net6.0/HiFunction
+/Users/user/VisualStudioCode/GeekBrains/ЛекцииЗнакЯзыкПрогр/lection 1.2/HiFunction/bin/Debug/net6.0/HiFunction.deps.json
+/Users/user/VisualStudioCode/GeekBrains/ЛекцииЗнакЯзыкПрогр/lection 1.2/HiFunction/bin/Debug/net6.0/HiFunction.runtimeconfig.json
+/Users/user/VisualStudioCode/GeekBrains/ЛекцииЗнакЯзыкПрогр/lection 1.2/HiFunction/bin/Debug/net6.0/HiFunction.dll
+/Users/user/VisualStudioCode/GeekBrains/ЛекцииЗнакЯзыкПрогр/lection 1.2/HiFunction/bin/Debug/net6.0/HiFunction.pdb
+/Users/user/VisualStudioCode/GeekBrains/ЛекцииЗнакЯзыкПрогр/lection 1.2/HiFunction/obj/Debug/net6.0/HiFunction.csproj.AssemblyReference.cache
+/Users/user/VisualStudioCode/GeekBrains/ЛекцииЗнакЯзыкПрогр/lection 1.2/HiFunction/obj/Debug/net6.0/HiFunction.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/VisualStudioCode/GeekBrains/ЛекцииЗнакЯзыкПрогр/lection 1.2/HiFunction/obj/Debug/net6.0/HiFunction.AssemblyInfoInputs.cache
+/Users/user/VisualStudioCode/GeekBrains/ЛекцииЗнакЯзыкПрогр/lection 1.2/HiFunction/obj/Debug/net6.0/HiFunction.AssemblyInfo.cs
+/Users/user/VisualStudioCode/GeekBrains/ЛекцииЗнакЯзыкПрогр/lection 1.2/HiFunction/obj/Debug/net6.0/HiFunction.csproj.CoreCompileInputs.cache
+/Users/user/VisualStudioCode/GeekBrains/ЛекцииЗнакЯзыкПрогр/lection 1.2/HiFunction/obj/Debug/net6.0/HiFunction.dll
+/Users/user/VisualStudioCode/GeekBrains/ЛекцииЗнакЯзыкПрогр/lection 1.2/HiFunction/obj/Debug/net6.0/refint/HiFunction.dll
+/Users/user/VisualStudioCode/GeekBrains/ЛекцииЗнакЯзыкПрогр/lection 1.2/HiFunction/obj/Debug/net6.0/HiFunction.pdb
+/Users/user/VisualStudioCode/GeekBrains/ЛекцииЗнакЯзыкПрогр/lection 1.2/HiFunction/obj/Debug/net6.0/HiFunction.genruntimeconfig.cache
+/Users/user/VisualStudioCode/GeekBrains/ЛекцииЗнакЯзыкПрогр/lection 1.2/HiFunction/obj/Debug/net6.0/ref/HiFunction.dll
